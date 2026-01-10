@@ -1,0 +1,44 @@
+1. OSI and TCP/IP Models
+● Layer functions and protocols
+● Encapsulation and de-encapsulation
+● Comparison between OSI and TCP/IP
+
+2. IP Addressing and Subnetting
+● IPv4 vs IPv6
+● CIDR notation
+● Subnet masks and calculations
+
+3. Transport Layer Protocols
+● TCP: Connection-oriented communication
+● UDP: Connectionless communication
+● Port numbers and multiplexing and common ports
+
+4. DNS (Domain Name System)
+● Hierarchical structure
+● DNS record types
+● DNS resolution process
+
+5. HTTP and HTTPS
+● Request-response cycle
+● Methods (GET, POST, etc.)
+● HTTPS and SSL/TLS
+
+6. Network Security Basics
+● Firewalls and intrusion detection systems
+● Encryption and VPNs
+● Authentication protocols
+
+7. Network Devices
+● Connection Devices
+● Routing Devices
+● Cables
+
+8. CS50
+● ARPANET
+● Packets
+● DHCP
+● Topologies
+
+9. Extra
+● FTP, SMTP, NTP
+● SSH vs Telnet
