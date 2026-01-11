@@ -1,0 +1,45 @@
+*HTML*
+
+Tags and Attributes
+1. <head>
+2. <title>
+3. <body>
+4. <h> or heading
+5. <p> or paragraph
+6. <a> or anchor (carries link with href attribute)
+7. <br> or break
+8. <b> bold, <i> italics, <u> underline
+9. <pre> tag
+10. <img> tag (src, alt)
+11. <video> tag (src, width, controls, muted, autoplay, loop)
+12. <table> with <thead> <tbody>, <th>, <tr>, <td>  (colsapn for <th>)
+13. <div>
+14. <form> with <label> (for), <input> (type, id, name, placeholder, min, max, value)
+
+
+Regular Expressions or Regexes
+. : any character
+* : zero or more times
++ : one or more times
+? : zero or one time
+{n} : exactly n times
+{n,} : at least n times
+{n,m} : between n and m times
+[ ] : any one of the characters in the brackets
+( ) : group of characters
+| : or
+[0123456789] : any digit from 0 to 9
+[a-z] : any lowercase letter
+[A-Z] : any uppercase letter
+[a-zA-Z] : any letter
+[a-zA-Z0-9] : any alphanumeric character
+[0-9]{3} : exactly 3 digits
+[0-9]{3,5} : between 3 and 5 digits
+^ : start of the string
+$ : end of the string
+\d : any digit
+\D : any non-digit character
+\W : any non-word character
+\w : any word character (alphanumeric + underscore)
+\s : any whitespace character
+\S : any non-whitespace character
